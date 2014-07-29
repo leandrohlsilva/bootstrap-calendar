@@ -13,7 +13,7 @@ window.calendar_languages['pt-BR'] = {
 	title_week:  '{1} - Semana {0}',
 	title_day:   '{0}, {1} de {2} de {3}',
 
-	week:        'Week {0}',
+	week:        'sem. {0}',
 	all_day:     'Durante todo o dia',
 	time:        'Tempo',
 	events:      'Desenvolvimentos',
